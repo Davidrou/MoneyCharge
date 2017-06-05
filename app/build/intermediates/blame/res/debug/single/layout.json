@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "/home/luozhanwei/下载/MoneyCharge/app/build/intermediates/res/merged/debug/layout/about.xml",
+        "source": "/home/luozhanwei/下载/MoneyCharge/app/src/main/res/layout/about.xml"
+    },
+    {
+        "merged": "/home/luozhanwei/下载/MoneyCharge/app/build/intermediates/res/merged/debug/layout/author.xml",
+        "source": "/home/luozhanwei/下载/MoneyCharge/app/src/main/res/layout/author.xml"
+    },
+    {
+        "merged": "/home/luozhanwei/下载/MoneyCharge/app/build/intermediates/res/merged/debug/layout/addnote.xml",
+        "source": "/home/luozhanwei/下载/MoneyCharge/app/src/main/res/layout/addnote.xml"
+    },
+    {
+        "merged": "/home/luozhanwei/下载/MoneyCharge/app/build/intermediates/res/merged/debug/layout/pay.xml",
+        "source": "/home/luozhanwei/下载/MoneyCharge/app/src/main/res/layout/pay.xml"
+    },
+    {
+        "merged": "/home/luozhanwei/下载/MoneyCharge/app/build/intermediates/res/merged/debug/layout/description.xml",
+        "source": "/home/luozhanwei/下载/MoneyCharge/app/src/main/res/layout/description.xml"
+    },
+    {
+        "merged": "/home/luozhanwei/下载/MoneyCharge/app/build/intermediates/res/merged/debug/layout/data.xml",
+        "source": "/home/luozhanwei/下载/MoneyCharge/app/src/main/res/layout/data.xml"
+    },
+    {
+        "merged": "/home/luozhanwei/下载/MoneyCharge/app/build/intermediates/res/merged/debug/layout/dialog.xml",
+        "source": "/home/luozhanwei/下载/MoneyCharge/app/src/main/res/layout/dialog.xml"
+    },
+    {
+        "merged": "/home/luozhanwei/下载/MoneyCharge/app/build/intermediates/res/merged/debug/layout/note.xml",
+        "source": "/home/luozhanwei/下载/MoneyCharge/app/src/main/res/layout/note.xml"
+    },
+    {
+        "merged": "/home/luozhanwei/下载/MoneyCharge/app/build/intermediates/res/merged/debug/layout/gvitem.xml",
+        "source": "/home/luozhanwei/下载/MoneyCharge/app/src/main/res/layout/gvitem.xml"
+    },
+    {
+        "merged": "/home/luozhanwei/下载/MoneyCharge/app/build/intermediates/res/merged/debug/layout/account.xml",
+        "source": "/home/luozhanwei/下载/MoneyCharge/app/src/main/res/layout/account.xml"
+    },
+    {
+        "merged": "/home/luozhanwei/下载/MoneyCharge/app/build/intermediates/res/merged/debug/layout/showinfo.xml",
+        "source": "/home/luozhanwei/下载/MoneyCharge/app/src/main/res/layout/showinfo.xml"
+    },
+    {
+        "merged": "/home/luozhanwei/下载/MoneyCharge/app/build/intermediates/res/merged/debug/layout/pidata.xml",
+        "source": "/home/luozhanwei/下载/MoneyCharge/app/src/main/res/layout/pidata.xml"
+    },
+    {
+        "merged": "/home/luozhanwei/下载/MoneyCharge/app/build/intermediates/res/merged/debug/layout/infomanage.xml",
+        "source": "/home/luozhanwei/下载/MoneyCharge/app/src/main/res/layout/infomanage.xml"
+    },
+    {
+        "merged": "/home/luozhanwei/下载/MoneyCharge/app/build/intermediates/res/merged/debug/layout/modifynote.xml",
+        "source": "/home/luozhanwei/下载/MoneyCharge/app/src/main/res/layout/modifynote.xml"
+    },
+    {
+        "merged": "/home/luozhanwei/下载/MoneyCharge/app/build/intermediates/res/merged/debug/layout/incomedata.xml",
+        "source": "/home/luozhanwei/下载/MoneyCharge/app/src/main/res/layout/incomedata.xml"
+    },
+    {
+        "merged": "/home/luozhanwei/下载/MoneyCharge/app/build/intermediates/res/merged/debug/layout/income.xml",
+        "source": "/home/luozhanwei/下载/MoneyCharge/app/src/main/res/layout/income.xml"
+    },
+    {
+        "merged": "/home/luozhanwei/下载/MoneyCharge/app/build/intermediates/res/merged/debug/layout/modifyinp.xml",
+        "source": "/home/luozhanwei/下载/MoneyCharge/app/src/main/res/layout/modifyinp.xml"
+    },
+    {
+        "merged": "/home/luozhanwei/下载/MoneyCharge/app/build/intermediates/res/merged/debug/layout/setting.xml",
+        "source": "/home/luozhanwei/下载/MoneyCharge/app/src/main/res/layout/setting.xml"
+    },
+    {
+        "merged": "/home/luozhanwei/下载/MoneyCharge/app/build/intermediates/res/merged/debug/layout/addpay.xml",
+        "source": "/home/luozhanwei/下载/MoneyCharge/app/src/main/res/layout/addpay.xml"
+    },
+    {
+        "merged": "/home/luozhanwei/下载/MoneyCharge/app/build/intermediates/res/merged/debug/layout/changepwd.xml",
+        "source": "/home/luozhanwei/下载/MoneyCharge/app/src/main/res/layout/changepwd.xml"
+    },
+    {
+        "merged": "/home/luozhanwei/下载/MoneyCharge/app/build/intermediates/res/merged/debug/layout/inptypemanager.xml",
+        "source": "/home/luozhanwei/下载/MoneyCharge/app/src/main/res/layout/inptypemanager.xml"
+    },
+    {
+        "merged": "/home/luozhanwei/下载/MoneyCharge/app/build/intermediates/res/merged/debug/layout/paydata.xml",
+        "source": "/home/luozhanwei/下载/MoneyCharge/app/src/main/res/layout/paydata.xml"
+    },
+    {
+        "merged": "/home/luozhanwei/下载/MoneyCharge/app/build/intermediates/res/merged/debug/layout/register.xml",
+        "source": "/home/luozhanwei/下载/MoneyCharge/app/src/main/res/layout/register.xml"
+    },
+    {
+        "merged": "/home/luozhanwei/下载/MoneyCharge/app/build/intermediates/res/merged/debug/layout/addincome.xml",
+        "source": "/home/luozhanwei/下载/MoneyCharge/app/src/main/res/layout/addincome.xml"
+    },
+    {
+        "merged": "/home/luozhanwei/下载/MoneyCharge/app/build/intermediates/res/merged/debug/layout/login.xml",
+        "source": "/home/luozhanwei/下载/MoneyCharge/app/src/main/res/layout/login.xml"
+    },
+    {
+        "merged": "/home/luozhanwei/下载/MoneyCharge/app/build/intermediates/res/merged/debug/layout/activity_index.xml",
+        "source": "/home/luozhanwei/下载/MoneyCharge/app/src/main/res/layout/activity_index.xml"
+    }
+]

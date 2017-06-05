@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settingtype">
+       <item>清空收入数据</item>
+       <item>清空支出数据</item>
+       <item>清空便签数据</item>
+       <item>收入类型管理</item>
+       <item>支出类型管理</item>
+       <item>还原默认设置</item> 
+       <item>关于系统</item>
+   </string-array>
+    <string-array name="time_day">
+       <item>01</item>
+       <item>02</item>
+       <item>03</item>
+       <item>04</item>
+       <item>05</item>
+       <item>06</item> 
+       <item>07</item>
+       <item>08</item>
+       <item>09</item>
+       <item>10</item> 
+       <item>11</item>
+       <item>12</item>
+       <item>13</item>
+       <item>14</item>
+       <item>15</item>
+       <item>16</item> 
+       <item>17</item>
+       <item>18</item>
+       <item>19</item>
+       <item>20</item>
+       <item>21</item>
+       <item>22</item>
+       <item>23</item>
+       <item>24</item>
+       <item>25</item>
+       <item>26</item> 
+       <item>27</item>
+       <item>28</item>
+       <item>29</item>
+       <item>30</item>
+       <item>31</item> 
+   </string-array>
+    <string-array name="time_month">
+       <item>01</item>
+       <item>02</item>
+       <item>03</item>
+       <item>04</item>
+       <item>05</item>
+       <item>06</item> 
+       <item>07</item>
+       <item>08</item>
+       <item>09</item>
+       <item>10</item> 
+       <item>11</item>
+       <item>12</item>
+   </string-array>
+    <color name="grey">#ffd2d2d2</color>
+    <color name="light_grey">#ffe6e6e6</color>
+    <color name="red">#ff820000</color>
+    <color name="white">#ffffffff</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">小乖记账</string>
+    <string name="desc1">系统默认用户无密码保护，若需要建立私\n密记账，请建立个人账户</string>
+    <string name="desc2">用户注册时，用户名密码无特殊限制，但\n请记牢，系统不提供找回服务</string>
+    <string name="desc3">还原默认设置将会把当前用户的收入、支\n出类型重置为初始状态,此操作请慎重</string>
+    <string name="desc4">在使用过程中遇到任何问题或有良好的建\n议，欢迎发送反馈! 谢谢！</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="Dialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowBackground">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+    <style name="DialogText">
+        <item name="android:textColor">#6e0000</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="DialogText.Title">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="disable">
+        <item name="android:background">#6e6e6e</item>
+    </style>
+    <style name="enable">
+        <item name="android:background">#21a0a0</item>
+    </style>
+</resources>

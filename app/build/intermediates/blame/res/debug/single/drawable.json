@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/home/luozhanwei/下载/MoneyCharge/app/build/intermediates/res/merged/debug/drawable/btn_down.gif",
+        "source": "/home/luozhanwei/下载/MoneyCharge/app/src/main/res/drawable/btn_down.gif"
+    },
+    {
+        "merged": "/home/luozhanwei/下载/MoneyCharge/app/build/intermediates/res/merged/debug/drawable/btn_up.gif",
+        "source": "/home/luozhanwei/下载/MoneyCharge/app/src/main/res/drawable/btn_up.gif"
+    },
+    {
+        "merged": "/home/luozhanwei/下载/MoneyCharge/app/build/intermediates/res/merged/debug/drawable/exit.png",
+        "source": "/home/luozhanwei/下载/MoneyCharge/app/src/main/res/drawable/exit.png"
+    },
+    {
+        "merged": "/home/luozhanwei/下载/MoneyCharge/app/build/intermediates/res/merged/debug/drawable/app_list_corner_border.png",
+        "source": "/home/luozhanwei/下载/MoneyCharge/app/src/main/res/drawable/app_list_corner_border.png"
+    },
+    {
+        "merged": "/home/luozhanwei/下载/MoneyCharge/app/build/intermediates/res/merged/debug/drawable/setting.png",
+        "source": "/home/luozhanwei/下载/MoneyCharge/app/src/main/res/drawable/setting.png"
+    },
+    {
+        "merged": "/home/luozhanwei/下载/MoneyCharge/app/build/intermediates/res/merged/debug/drawable/account.png",
+        "source": "/home/luozhanwei/下载/MoneyCharge/app/src/main/res/drawable/account.png"
+    },
+    {
+        "merged": "/home/luozhanwei/下载/MoneyCharge/app/build/intermediates/res/merged/debug/drawable/selector.xml",
+        "source": "/home/luozhanwei/下载/MoneyCharge/app/src/main/res/drawable/selector.xml"
+    },
+    {
+        "merged": "/home/luozhanwei/下载/MoneyCharge/app/build/intermediates/res/merged/debug/drawable/nodata.png",
+        "source": "/home/luozhanwei/下载/MoneyCharge/app/src/main/res/drawable/nodata.png"
+    },
+    {
+        "merged": "/home/luozhanwei/下载/MoneyCharge/app/build/intermediates/res/merged/debug/drawable/hint.png",
+        "source": "/home/luozhanwei/下载/MoneyCharge/app/src/main/res/drawable/hint.png"
+    },
+    {
+        "merged": "/home/luozhanwei/下载/MoneyCharge/app/build/intermediates/res/merged/debug/drawable/note.png",
+        "source": "/home/luozhanwei/下载/MoneyCharge/app/src/main/res/drawable/note.png"
+    },
+    {
+        "merged": "/home/luozhanwei/下载/MoneyCharge/app/build/intermediates/res/merged/debug/drawable/income.png",
+        "source": "/home/luozhanwei/下载/MoneyCharge/app/src/main/res/drawable/income.png"
+    },
+    {
+        "merged": "/home/luozhanwei/下载/MoneyCharge/app/build/intermediates/res/merged/debug/drawable/description.png",
+        "source": "/home/luozhanwei/下载/MoneyCharge/app/src/main/res/drawable/description.png"
+    },
+    {
+        "merged": "/home/luozhanwei/下载/MoneyCharge/app/build/intermediates/res/merged/debug/drawable/data.png",
+        "source": "/home/luozhanwei/下载/MoneyCharge/app/src/main/res/drawable/data.png"
+    },
+    {
+        "merged": "/home/luozhanwei/下载/MoneyCharge/app/build/intermediates/res/merged/debug/drawable/background.jpg",
+        "source": "/home/luozhanwei/下载/MoneyCharge/app/src/main/res/drawable/background.jpg"
+    },
+    {
+        "merged": "/home/luozhanwei/下载/MoneyCharge/app/build/intermediates/res/merged/debug/drawable/pay.png",
+        "source": "/home/luozhanwei/下载/MoneyCharge/app/src/main/res/drawable/pay.png"
+    }
+]

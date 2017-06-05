@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/luozhanwei/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/home/luozhanwei/下载/MoneyCharge/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0_07a97adbabfb0a6debcec6a099e95ede5e648153.jar" />
+    </item>
+    <item
+        jar="/home/luozhanwei/下载/MoneyCharge/app/libs/androidpiechart.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a7b271b26e6fcedb4b547cc0d291c118b18d07f">
+        <dex dex="/home/luozhanwei/下载/MoneyCharge/app/build/intermediates/pre-dexed/debug/androidpiechart_4fb5167056446d8358a22d1c94ff986145110fcb.jar" />
+    </item>
+    <item
+        jar="/home/luozhanwei/下载/MoneyCharge/app/libs/achartengine-1.1.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9932e3fb9fbe54e80873e77f72a99f79e33b3250">
+        <dex dex="/home/luozhanwei/下载/MoneyCharge/app/build/intermediates/pre-dexed/debug/achartengine-1.1.0_f02fcb7a0e171fbae7be1bf565d89c837d695a97.jar" />
+    </item>
+
+</items>
